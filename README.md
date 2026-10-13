@@ -25,8 +25,6 @@ I build AI systems end to end: train and fine-tune the model, make it fast to se
 | [**agora**](https://github.com/buidangphuc/agora) | A working reference for an **Agentic SDLC**: AI agents build and maintain a 24-service marketplace (Go gRPC, Next.js, Kafka/CQRS) under spec, task, feature and release gates. 1,000+ agent co-authored commits, 99% automated acceptance coverage. | Go · TypeScript · Kafka · Python |
 | [**MLOps**](https://github.com/buidangphuc/MLOps) | Fine-tuning pipeline (ingest → validate → train → evaluate → gate → version → serve) plus a GPU performance platform that binds every tuned config to the GPU it was measured on. | Python · PyTorch · LoRA/QLoRA · Docker |
 | [**ai-platform-template**](https://github.com/buidangphuc/ai-platform-template) | Reusable FastAPI foundation for AI products: auth, health, idempotency, outbox, queues, LangChain + Langfuse tracing, LlamaIndex RAG. Zero add-ons on by default, everything opt-in. | FastAPI · Postgres · Redis · LangChain · Langfuse |
-| [**MLOpsPiplineMindstone**](https://github.com/buidangphuc/MLOpsPiplineMindstone) | Invoice/receipt image in, structured JSON out: layout → text detection → OCR → key information extraction, served with monitoring. | PyTorch · ONNX INT8 · FastAPI · Prometheus · Grafana |
-| [**IS_Project**](https://github.com/buidangphuc/IS_Project) | Real-time movie recommender on a Lambda architecture with a live streaming demo. | Kafka · Flink · Spark · Redis · FastAPI |
 | [**Inference-Engineer**](https://github.com/buidangphuc/Inference-Engineer) | Notebooks on LLM inference engineering. | Python · Jupyter |
 
 ## 🛠️ Tech stack
